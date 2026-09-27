@@ -1,0 +1,5 @@
+Velocity: 3.0 ; Kinetic Energy: 9.0
+Velocity: 5.0 ; Kinetic Energy: 25.0
+Velocity: 8.0 ; Kinetic Energy: 64.0
+Velocity: 12.0 ; Kinetic Energy: 144.0
+Velocity: 15.0 ; Kinetic Energy: 225.0
